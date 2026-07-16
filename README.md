@@ -111,5 +111,5 @@ This project is open source and available for educational purposes.
 
 ## Author
 
-**Thanishka R**
+**Thanishka Obilisetti**
 GitHub: [Thanishka1410](https://github.com/Thanishka1410)
